@@ -1,0 +1,93 @@
+body{
+    background-image: url('https://w-dog.org/android-wallpapers/12/3/393296295347896.jpg');
+    background-color: none;
+    background-attachment: fixed;
+    position: absolute;
+    width: 1500px;
+    height: 2000px;
+    margin:0;
+    font-family:'Times New Roman', Times, serif; 
+}
+
+p{
+    font-size: 1.5rem;
+   color: #f9f6f7;
+   line-break: 1rem;
+}
+img{
+    align-self: center;
+    border: 5px  ridge #dba8a8;
+  border-radius: 4px;
+  padding: 5px;
+  width: 800px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h1{
+    background-color: #f4d7e1;
+    font-size: 4rem;
+    color:rgb(78, 3, 3);
+    text-align: center;
+}h2{
+    font-size: 2rem;
+    color: rgb(251, 250, 250);
+}
+h3{
+    text-align: center;
+    font-size: 3rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(237, 103, 132);
+}
+ul{
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+
+}
+
+
+
+
+
+
+
+/*dd{
+    color: #2842c6;
+}
+h3{
+    color: #cf054b;;
+}
+h2{
+    color:rgb(7, 8, 8);
+}*/
+/*
+<center><h1  style="background:rgb(167, 19, 43)">Nature</h1></center>
+<div style="padding-bottom: 2000px;">
+<font><p><br>Nature refers to the interaction between the physical surroundings around us and the life withih it like atmosphere,climate,natural resources,ecosystem,flora,fauna and humans.
+    Nature is indeed god's precious gift to earth.It is the primary source of all the necessities for the nourishment of all living beings on Earth.<br></font>
+    <dd  style=><br>Right from the food we eat,the clothes we wear,and the house we live in is provided by nature.Nature is called<b  style=color:red>'Mother Nature'</b> because just like our mother.</dd></p>
+    <center><img src="mountain.jpg" alt="nature"/></center>
+   <h2>Importance of Nature</h2>
+   <p>If not for nature then we wouldn't be alive.The health benefits of nature for humans are incredible.
+    the most important thing for survival is oxygen.The entire cycle of respiration is regulated by nature.
+    The oxygen that we inhale is given by trees and the carbondioxide we exhale is getting absorbed by trees.
+    </p><br>
+    <dl>
+    <p>The ecosystem of nature is a community in which producers ,consumers,and decomposers
+     work together in their environment for survival.The natural fundamental processes 
+    like soil creation,photosynthesis,nutrient cycling,and water cycling,allow earth 
+    to sustain life.We are dependent on these ecosystem services daily whether or not we are aware.
+    </p></dl>
+</div>
+    <p><dd><h3>Some of the points about the importance of nature</h3></dd>
+    <li><a>Nature consists of everything that we can see and feel </a></li>
+    <li><a>It is a home to different kinds of living and non-living beings</a></li>
+    <li><a>It maintains an ecological system to make everyone live in hormony</a></li>
+    <li><a>Nature holds balance between diverse ecosystems for smooth functioning</a></li>
+    <li><a> consists of air,water,plants,animals,humanlife,and many more</a></li></p>
+    
+</body>
+</html>*/
