@@ -1,0 +1,48 @@
+body{
+   
+}
+.saniya{
+    border:2px solid brown;
+    background-color: blueviolet;
+    margin: 100px;
+    text-align: center;
+}
+.address
+{
+    border:4px solid purple;
+    background-color: aquamarine;
+    margin: 100px;
+    text-align: center;
+}
+#family{
+    border:4px solid red;
+
+    background-color: steelblue;
+
+}
+.imppoint{
+
+}
+p{
+    color:blueviolet
+}
+h1{
+    color:darkred
+}
+dd{
+    color:orange
+}
+h3{
+    color:deeppink
+}
+h2{
+    color:darkgoldenrod
+}
+
+
+.apple{
+    background-color: beige;
+    text-align: center;
+    text-emphasis-color: blue;
+    border:4px solid rgb(192, 96, 96);
+}
